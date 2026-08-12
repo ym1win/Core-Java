@@ -105,7 +105,6 @@ It may include:
 - Small demonstrations
 
 ---
----
 
 ## 🔄 Learning Workflow
 
@@ -138,8 +137,6 @@ Every topic follows the same learning cycle:
 ---
 
 
-
----
 
 ## 🌱 Git & GitHub Workflow
 
@@ -187,8 +184,6 @@ This keeps the Git history meaningful and easy to understand.
 
 
 
----
-
 ## 📈 Progress
 
 This repository is a **work in progress** and will evolve throughout my Java learning journey.
@@ -213,10 +208,6 @@ As I progress, I will add:
 ---
 
 
----
-
-
----
 
 ## 📌 Repository Philosophy
 
@@ -231,8 +222,6 @@ The code may start simple, but the goal is to continuously improve both my **tec
 ---
 
 
-
----
 
 
 
