@@ -18,10 +18,3 @@ This section contains my learning notes and code from the Java Basics part of th
 > Detailed explanations are maintained in my handwritten notes.
 > This README contains only the key points I want to remember and revise quickly.
 
-## Code
-
-All Java implementations and experiments are available inside the `code` folder.
-
-## Practice
-
-Practice problems related to these concepts will be added as I progress through the course.
