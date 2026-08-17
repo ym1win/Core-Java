@@ -22,34 +22,7 @@ The primary objective of this repository is to build a strong understanding of C
 
 ---
 
-## 📚 Learning Roadmap
 
-The repository will grow topic-by-topic as I progress through the course.
-
-| # | Topic | Status |
-|---|-------|--------|
-| 01 | Java Basics | 🟡 In Progress |
-| 02 | Variables & Data Types | ⬜ Not Started |
-| 03 | Operators & Expressions | ⬜ Not Started |
-| 04 | Conditional Statements | ⬜ Not Started |
-| 05 | Loops | ⬜ Not Started |
-| 06 | Methods & Functions | ⬜ Not Started |
-| 07 | Arrays | ⬜ Not Started |
-| 08 | Strings | ⬜ Not Started |
-| 09 | Object-Oriented Programming | ⬜ Not Started |
-| 10 | Inheritance & Polymorphism | ⬜ Not Started |
-| 11 | Exception Handling | ⬜ Not Started |
-| 12 | Generics | ⬜ Not Started |
-| 13 | Collections Framework | ⬜ Not Started |
-| 14 | Functional Programming | ⬜ Not Started |
-| 15 | Streams | ⬜ Not Started |
-| 16 | Multithreading | ⬜ Not Started |
-| 17 | JVM & Memory | ⬜ Not Started |
-| 18 | Advanced Java Concepts | ⬜ Not Started |
-
-> **Note:** The roadmap will be refined and updated according to the actual concepts covered in the course.
-
----
 
 ## 🗂️ Repository Structure
 
