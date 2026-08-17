@@ -16,13 +16,13 @@ public class class_and_object {
         void print(){
             System.out.println("Name - "+name+" Age - "+age+" Rollno - "+rollno+" College - "+clg);
         }
-    }// abhi sirf blueprint bni hai , koi memory allocate ni hui , uske liye main methoda ke andr object bnana hoga
+    }// abhi sirf blueprint bni hai , koi memory allocate ni hui , uske liye main method ke andr object bnana hoga
 
         void main() {
         Student s1= new Student(); //by new keyword allocating memory in heap for that object s1 of class student
         Student s2= new Student();
 
-        s1.name="yash";            //ny using dor operator accessing characteristic field of an object
+        s1.name="yash";            //by using dot operator accessing characteristic field of an object
         s1.age=22;
         s1.rollno=291;
         s1.clg="abes";
