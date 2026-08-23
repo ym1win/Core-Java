@@ -11,7 +11,7 @@ A concise deep dive into some important Java concepts:
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 * [1. Objects Deep Dive](#1-objects-deep-dive)
 
