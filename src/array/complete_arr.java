@@ -17,7 +17,6 @@ import java.util.Scanner;
         for (int element : arr) {
             sum += element;
         }
-
         return sum;
     }
 
