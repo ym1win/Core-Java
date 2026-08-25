@@ -38,7 +38,6 @@ public class call_by_reference {
     }
 }
 
-
 // Ye ek class hai jisme object ke data members hain
 class Random {
 
