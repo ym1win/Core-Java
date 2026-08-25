@@ -9,7 +9,6 @@ public class type_promotion_exm_2 {
         int i=7654;
         float f= 4.5f;
         double d=5.66;
-
         double result= (f*b) + (i/c) - (d*s);
 
         // f*b --> float
