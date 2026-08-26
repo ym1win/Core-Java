@@ -26,7 +26,6 @@ A concise deep dive into some important Java concepts:
 * [5. Deep Copy](#5-deep-copy)
 
 ---
-
 # 1. Objects Deep Dive
 
 Consider the following class:
