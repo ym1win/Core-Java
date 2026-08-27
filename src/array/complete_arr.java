@@ -19,7 +19,6 @@ import java.util.Scanner;
         }
         return sum;
     }
-
     // Find Maximum
     static int findMax(int[] arr) {
         int max = arr[0];
