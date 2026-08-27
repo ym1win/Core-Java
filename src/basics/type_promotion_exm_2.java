@@ -20,6 +20,7 @@ public class type_promotion_exm_2 {
         // thats why whole result data type is double
 
         System.out.println((f*b)+" + "+(i/c)+" - "+(d*s));
+
         System.out.println("Result : "+ result);
 
     }
