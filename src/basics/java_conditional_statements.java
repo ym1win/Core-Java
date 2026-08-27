@@ -198,12 +198,11 @@ public class java_conditional_statements {
         // 0 -> 1
         // 1 -> 0
         int toggleValue = 10;
-        int togglePosition = 1;
 
+        int togglePosition = 1;
         toggleValue = toggleValue ^ (1 << togglePosition);
 
         System.out.println("After toggling bit: " + toggleValue);
-
 
         System.out.println("All concepts completed!");
 
