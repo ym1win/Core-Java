@@ -23,7 +23,6 @@ class recursion {
         // Control comes back here after Function 3 finishes
         System.out.println("Back in Function 2");
     }
-
     // Function 3
     static void function3() {
         System.out.println("Inside Function 3");
