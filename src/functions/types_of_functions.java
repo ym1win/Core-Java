@@ -8,7 +8,6 @@ public class types_of_functions {
         System.out.println(product(5,6));
 
     }
-
     // we will cover 4 types of fxn based on i/p , o/p
 
     // 1) no input , no output(no return)
