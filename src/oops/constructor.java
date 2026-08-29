@@ -33,6 +33,5 @@ public class constructor {
         Animal(){
             // default constructor
         }
-
     }
 }
