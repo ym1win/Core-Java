@@ -22,6 +22,5 @@ public class type_promotion_exm_2 {
         System.out.println((f*b)+" + "+(i/c)+" - "+(d*s));
 
         System.out.println("Result : "+ result);
-
     }
 }
