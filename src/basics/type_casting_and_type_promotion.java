@@ -38,5 +38,6 @@ public class type_casting_and_type_promotion {
 
          u=(byte)(u*2);   // now whole expression and result becomes byte
         System.out.println(u);
+
     }
 }
