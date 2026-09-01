@@ -212,6 +212,5 @@ public class java_operators {
         // =====================================================
 
         System.out.println("\nAll major Java operators demonstrated!");
-
     }
 }
