@@ -7,10 +7,9 @@ A concise deep dive into some important Java concepts:
 * Exact data and padding
 * Call by Value vs reference behavior
 * Object reference passing
-* Shallow Copy vs Deep Copy
+* Shallow Copy vs Deep Copy 
 
 ---
-
 ##  Table of Contents
 
 * [1. Objects Deep Dive](#1-objects-deep-dive)
