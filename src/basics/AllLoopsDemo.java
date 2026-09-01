@@ -165,6 +165,5 @@ public class AllLoopsDemo {
         // =====================================================
 
         System.out.println("\nAll loops, break and continue demonstrated!");
-
     }
 }
