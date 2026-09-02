@@ -12,7 +12,6 @@ public class variable_and_datatype {
 
         float x=5.4f;
         double y=6.98;
-
         char r='a';
         System.out.println(a);
         System.out.println(b);
