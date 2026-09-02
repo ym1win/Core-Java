@@ -72,7 +72,6 @@ public class constructor_chaining_and_this_keyword {
             this.rollno = rollno;
             this.clg = clg;
         }
-
     }
 
 }
