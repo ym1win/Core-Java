@@ -42,5 +42,4 @@ public class chaining_of_fxn {
         // Control comes back here after Function 1 finishes
         System.out.println("Back in Main");
     }
-
 }
