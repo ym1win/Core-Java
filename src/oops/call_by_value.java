@@ -33,7 +33,6 @@ public class call_by_value {
 
 
     static void addten(int x, int y) {
-
         /*
          * Ye x aur y, main() wale x aur y nahi hain.
          *
