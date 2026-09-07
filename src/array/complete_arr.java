@@ -384,7 +384,6 @@ import java.util.Scanner;
         System.out.println("\nArray after Arrays.fill():");
         display(filledArray);
 
-
         sc.close();
     }
 }
